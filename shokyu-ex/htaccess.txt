@@ -1,0 +1,5 @@
+
+AuthUserFile "/home/wp227196/wp227196.wpx.jp/htpasswd/syokyu-ex/.htpasswd"
+AuthName "Member Site"
+AuthType BASIC
+require valid-user
